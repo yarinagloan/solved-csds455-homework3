@@ -1,0 +1,7 @@
+Download Link: https://assignmentchef.com/product/solved-csds455-homework3
+<br>
+<strong>Problem 1</strong>: Let <em>G </em>be a bipartite graph, let <em>A </em>and <em>B </em>be the partition sets of <em>V </em>(<em>G</em>), and suppose we have the following fact: for every <em>S </em>⊆ <em>A</em>, |<em>S</em>| ≤ |<em>N</em>(<em>S</em>)|. (<em>N</em>(<em>S</em>) is the set of vertices of <em>B </em>adjacent to a vertex of <em>S</em>.) Let <em>M </em>be a matching of <em>G </em>and let <em>a </em>∈ <em>A </em>be an unmatched vertex. Prove that there exists an augmenting path in <em>G </em>with respect to <em>M </em>starting from <em>a</em>.
+
+<strong>Problem 2</strong>: Let <em>G </em>be a bipartite graph, and let <em>A </em>and <em>B </em>be partition sets of <em>V </em>(<em>G</em>). Given <em>S </em>⊆ <em>A</em>, define the <em>deficiency of S </em>to be |<em>S</em>| − |<em>N</em>(<em>S</em>)|. (The deficiency of ∅ is 0.) Let <em>Def</em>(<em>A</em>) be the maximum deficiency of over all sets <em>S </em>⊆ <em>A</em>. Prove that the size of the maximum matching of <em>G </em>is equal to |<em>A</em>| − <em>Def</em>(<em>A</em>).
+
+<strong>Problem 3</strong>: Let <em>q</em>(<em>H</em>) be the number of <em>components </em>of (not necessarily connected) graph <em>H </em>that contain an odd number of vertices. Prove that a tree <em>T </em>has a perfect matching if and only if <em>q</em>(<em>T </em>− <em>v</em>) = 1 for all <em>v </em>∈ <em>V </em>(<em>T</em>).
